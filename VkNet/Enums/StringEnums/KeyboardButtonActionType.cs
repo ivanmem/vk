@@ -55,5 +55,10 @@ public enum KeyboardButtonActionType
 	/// <summary>
 	/// Подписаться
 	/// </summary>
-	IntentSubscribe
+	IntentSubscribe,
+
+ 	/// <summary>
+	/// Открыть модальный вид
+	/// </summary>
+	OpenModalView,
 }
